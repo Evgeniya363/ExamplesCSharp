@@ -1,4 +1,4 @@
-﻿//Маша?
+﻿//Маша? а кто? 
 Console.Write("Представьтесь: ");
 string username = Console.ReadLine();
 if (username.ToLower()=="маша")
